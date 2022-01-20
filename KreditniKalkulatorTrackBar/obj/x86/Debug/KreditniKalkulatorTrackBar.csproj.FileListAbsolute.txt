@@ -1,0 +1,32 @@
+C:\Users\Budimir Kovacevic\Documents\Visual Studio 2010\Projects\KreditniKalkulatorTrackBar\KreditniKalkulatorTrackBar\bin\Debug\KreditniKalkulatorTrackBar.exe.config
+C:\Users\Budimir Kovacevic\Documents\Visual Studio 2010\Projects\KreditniKalkulatorTrackBar\KreditniKalkulatorTrackBar\bin\Debug\KreditniKalkulatorTrackBar.exe
+C:\Users\Budimir Kovacevic\Documents\Visual Studio 2010\Projects\KreditniKalkulatorTrackBar\KreditniKalkulatorTrackBar\bin\Debug\KreditniKalkulatorTrackBar.pdb
+C:\Users\Budimir Kovacevic\Documents\Visual Studio 2010\Projects\KreditniKalkulatorTrackBar\KreditniKalkulatorTrackBar\obj\x86\Debug\KreditniKalkulatorTrackBar.frmMain.resources
+C:\Users\Budimir Kovacevic\Documents\Visual Studio 2010\Projects\KreditniKalkulatorTrackBar\KreditniKalkulatorTrackBar\obj\x86\Debug\KreditniKalkulatorTrackBar.frmSettings.resources
+C:\Users\Budimir Kovacevic\Documents\Visual Studio 2010\Projects\KreditniKalkulatorTrackBar\KreditniKalkulatorTrackBar\obj\x86\Debug\KreditniKalkulatorTrackBar.Properties.Resources.resources
+C:\Users\Budimir Kovacevic\Documents\Visual Studio 2010\Projects\KreditniKalkulatorTrackBar\KreditniKalkulatorTrackBar\obj\x86\Debug\KreditniKalkulatorTrackBar.csproj.GenerateResource.cache
+C:\Users\Budimir Kovacevic\Documents\Visual Studio 2010\Projects\KreditniKalkulatorTrackBar\KreditniKalkulatorTrackBar\obj\x86\Debug\KreditniKalkulatorTrackBar.exe
+C:\Users\Budimir Kovacevic\Documents\Visual Studio 2010\Projects\KreditniKalkulatorTrackBar\KreditniKalkulatorTrackBar\obj\x86\Debug\KreditniKalkulatorTrackBar.pdb
+C:\Users\Budimir Kovacevic\Documents\Visual Studio 2010\Projects\KreditniKalkulatorTrackBar\KreditniKalkulatorTrackBar\obj\x86\Debug\KreditniKalkulatorTrackBar.csprojAssemblyReference.cache
+C:\Users\Budimir Kovacevic\Documents\Visual Studio 2010\Projects\KreditniKalkulatorTrackBar\KreditniKalkulatorTrackBar\obj\x86\Debug\KreditniKalkulatorTrackBar.csproj.CoreCompileInputs.cache
+C:\Users\Aco\Desktop\TMP_11_07_2020\KreditniKalkulatorTrackBar\KreditniKalkulatorTrackBar\bin\Debug\KreditniKalkulatorTrackBar.exe.config
+C:\Users\Aco\Desktop\TMP_11_07_2020\KreditniKalkulatorTrackBar\KreditniKalkulatorTrackBar\obj\x86\Debug\KreditniKalkulatorTrackBar.exe
+C:\Users\Aco\Desktop\TMP_11_07_2020\KreditniKalkulatorTrackBar\KreditniKalkulatorTrackBar\obj\x86\Debug\KreditniKalkulatorTrackBar.pdb
+D:\tmp\TMP_11_07_2020\KreditniKalkulatorTrackBar\KreditniKalkulatorTrackBar\bin\Debug\KreditniKalkulatorTrackBar.exe.config
+D:\tmp\TMP_11_07_2020\KreditniKalkulatorTrackBar\KreditniKalkulatorTrackBar\obj\x86\Debug\KreditniKalkulatorTrackBar.exe
+D:\tmp\TMP_11_07_2020\KreditniKalkulatorTrackBar\KreditniKalkulatorTrackBar\obj\x86\Debug\KreditniKalkulatorTrackBar.pdb
+D:\TMP_ACO\tmp\TMP_11_07_2020\KreditniKalkulatorTrackBar\KreditniKalkulatorTrackBar\bin\Debug\KreditniKalkulatorTrackBar.exe.config
+D:\TMP_ACO\tmp\TMP_11_07_2020\KreditniKalkulatorTrackBar\KreditniKalkulatorTrackBar\obj\x86\Debug\KreditniKalkulatorTrackBar.exe
+D:\TMP_ACO\tmp\TMP_11_07_2020\KreditniKalkulatorTrackBar\KreditniKalkulatorTrackBar\obj\x86\Debug\KreditniKalkulatorTrackBar.pdb
+D:\TMP_ACO\tmp\TMP_11_07_2020\KreditniKalkulatorTrackBar\KreditniKalkulatorTrackBar\bin\Debug\KreditniKalkulatorTrackBar.exe
+D:\TMP_ACO\tmp\TMP_11_07_2020\KreditniKalkulatorTrackBar\KreditniKalkulatorTrackBar\bin\Debug\KreditniKalkulatorTrackBar.pdb
+D:\TMP_ACO\tmp\TMP_11_07_2020\KreditniKalkulatorTrackBar\KreditniKalkulatorTrackBar\obj\x86\Debug\KreditniKalkulatorTrackBar.frmMain.resources
+D:\TMP_ACO\tmp\TMP_11_07_2020\KreditniKalkulatorTrackBar\KreditniKalkulatorTrackBar\obj\x86\Debug\KreditniKalkulatorTrackBar.frmSettings.resources
+D:\TMP_ACO\tmp\TMP_11_07_2020\KreditniKalkulatorTrackBar\KreditniKalkulatorTrackBar\obj\x86\Debug\KreditniKalkulatorTrackBar.Properties.Resources.resources
+D:\TMP_ACO\tmp\TMP_11_07_2020\KreditniKalkulatorTrackBar\KreditniKalkulatorTrackBar\obj\x86\Debug\KreditniKalkulatorTrackBar.csproj.GenerateResource.Cache
+C:\Users\Aco\Desktop\KreditniKalkulatorTrackBar\KreditniKalkulatorTrackBar\bin\Debug\KreditniKalkulatorTrackBar.exe.config
+C:\Users\Aco\Desktop\KreditniKalkulatorTrackBar\KreditniKalkulatorTrackBar\obj\x86\Debug\KreditniKalkulatorTrackBar.exe
+C:\Users\Aco\Desktop\KreditniKalkulatorTrackBar\KreditniKalkulatorTrackBar\obj\x86\Debug\KreditniKalkulatorTrackBar.pdb
+C:\Users\Aco\Desktop\kreditniKalkulator-loanCalculator\KreditniKalkulatorTrackBar\bin\Debug\KreditniKalkulatorTrackBar.exe.config
+C:\Users\Aco\Desktop\kreditniKalkulator-loanCalculator\KreditniKalkulatorTrackBar\obj\x86\Debug\KreditniKalkulatorTrackBar.exe
+C:\Users\Aco\Desktop\kreditniKalkulator-loanCalculator\KreditniKalkulatorTrackBar\obj\x86\Debug\KreditniKalkulatorTrackBar.pdb
